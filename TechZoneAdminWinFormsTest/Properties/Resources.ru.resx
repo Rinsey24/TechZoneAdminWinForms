@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="LoginTitle" xml:space="preserve"><value>Вход</value></data>
+  <data name="Login" xml:space="preserve"><value>Войти</value></data>
+  <data name="Username" xml:space="preserve"><value>Имя пользователя</value></data>
+  <data name="Password" xml:space="preserve"><value>Пароль</value></data>
+  <data name="ShowPassword" xml:space="preserve"><value>Показать пароль</value></data>
+  <data name="LoginSuccess" xml:space="preserve"><value>Успешный вход!</value></data>
+  <data name="LoginFailed" xml:space="preserve"><value>Неверный логин или пароль</value></data>
+  <data name="MainTitle" xml:space="preserve"><value>Админ-панель</value></data>
+  <data name="MenuUsers" xml:space="preserve"><value>Пользователи</value></data>
+  <data name="MenuProducts" xml:space="preserve"><value>Продукты</value></data>
+  <data name="MenuSettings" xml:space="preserve"><value>Настройки</value></data>
+  <data name="MenuLogout" xml:space="preserve"><value>Выход</value></data>
+  <data name="MenuLanguage" xml:space="preserve"><value>Язык</value></data>
+  <data name="WelcomeUser" xml:space="preserve"><value>Добро пожаловать, {0}!</value></data>
+  <data name="RegisterTitle" xml:space="preserve"><value>Регистрация</value></data>
+  <data name="ConfirmPassword" xml:space="preserve"><value>Подтвердите пароль</value></data>
+  <data name="Register" xml:space="preserve"><value>Зарегистрироваться</value></data>
+  <data name="Back" xml:space="preserve"><value>Назад</value></data>
+  <data name="FillAllFields" xml:space="preserve"><value>Пожалуйста, заполните все поля.</value></data>
+  <data name="PasswordsDoNotMatch" xml:space="preserve"><value>Пароли не совпадают.</value></data>
+  <data name="RegistrationSuccess" xml:space="preserve"><value>Регистрация прошла успешно.</value></data>
+  <data name="RegistrationError" xml:space="preserve"><value>Ошибка регистрации: {0}</value></data>
+  <data name="UsernameExists" xml:space="preserve"><value>Имя пользователя уже существует.</value></data>
+  <data name="DarkTheme" xml:space="preserve"><value>Тёмная тема</value></data>
+  <data name="LanguageRussian" xml:space="preserve"><value>Русский</value></data>
+  <data name="LanguageEnglish" xml:space="preserve"><value>Английский</value></data>
+  <data name="MessageBoxInfoTitle" xml:space="preserve"><value>Информация</value></data>
+  <data name="MessageBoxErrorTitle" xml:space="preserve"><value>Ошибка</value></data>
+  <data name="DefaultInfoMessage" xml:space="preserve"><value>Информационное сообщение.</value></data>
+  <data name="DefaultErrorMessage" xml:space="preserve"><value>Произошла ошибка.</value></data>
+  <data name="LogoutMessage" xml:space="preserve"><value>Выход выполнен успешно.</value></data>
+  <data name="DefaultProfileText" xml:space="preserve"><value>Профиль по умолчанию</value></data>
+  <data name="DefaultProfileImage" type="System.Resources.ResXFileRef, System.Windows.Forms"><value>Resources\Images\default.jpg;System.Drawing.Bitmap, System.Drawing</value></data>
+  <data name="ImageFilter" xml:space="preserve"><value>Файлы изображений|*.jpg;*.jpeg;*.png</value></data>
+  <data name="SettingsSaved" xml:space="preserve"><value>Настройки сохранены</value></data>
+  <data name="Save" xml:space="preserve"><value>Сохранить</value></data>
+  <data name="NewPasswordHint" xml:space="preserve"><value>Новый пароль</value></data>
+  <data name="ConfirmPasswordHint" xml:space="preserve"><value>Подтвердите новый пароль</value></data>
+  <data name="SelectImage" xml:space="preserve"><value>Выбрать изображение</value></data>
+  <data name="LoggingProductRepository_GetAll_Getting_all_products___" xml:space="preserve">
+    <value>Получение всех продуктов...</value>
+  </data>
+  <data name="LoggingProductRepository_GetById_Getting_product_by_ID___0_" xml:space="preserve">
+    <value>Получение продукта по ID: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Add_Adding_product___0_" xml:space="preserve">
+    <value>Добавление продукта: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Update_Updating_product_ID___0_" xml:space="preserve">
+    <value>Обновление продукта с ID: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Delete_Deleting_product_ID___0_" xml:space="preserve">
+    <value>Удаление продукта с ID: {0}</value>
+  </data>
+</root>

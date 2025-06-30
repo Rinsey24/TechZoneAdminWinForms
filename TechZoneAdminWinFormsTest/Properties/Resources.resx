@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <resheader name="resmimetype"><value>text/microsoft-resx</value></resheader>
+  <resheader name="version"><value>2.0</value></resheader>
+  <resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms</value></resheader>
+  <resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms</value></resheader>
+
+  <data name="LoginTitle" xml:space="preserve"><value>Login</value></data>
+  <data name="Login" xml:space="preserve"><value>Login</value></data>
+  <data name="Username" xml:space="preserve"><value>Username</value></data>
+  <data name="Password" xml:space="preserve"><value>Password</value></data>
+  <data name="ShowPassword" xml:space="preserve"><value>Show Password</value></data>
+  <data name="LoginSuccess" xml:space="preserve"><value>Login successful!</value></data>
+  <data name="LoginFailed" xml:space="preserve"><value>Invalid username or password</value></data>
+  <data name="MainTitle" xml:space="preserve"><value>Admin Panel</value></data>
+  <data name="MenuUsers" xml:space="preserve"><value>Users</value></data>
+  <data name="MenuProducts" xml:space="preserve"><value>Products</value></data>
+  <data name="MenuSettings" xml:space="preserve"><value>Settings</value></data>
+  <data name="MenuLogout" xml:space="preserve"><value>Logout</value></data>
+  <data name="MenuLanguage" xml:space="preserve"><value>Language</value></data>
+  <data name="WelcomeUser" xml:space="preserve"><value>Welcome, {0}!</value></data>
+  <data name="RegisterTitle" xml:space="preserve"><value>Register</value></data>
+  <data name="ConfirmPassword" xml:space="preserve"><value>Confirm Password</value></data>
+  <data name="Register" xml:space="preserve"><value>Register</value></data>
+  <data name="Back" xml:space="preserve"><value>Back</value></data>
+  <data name="FillAllFields" xml:space="preserve"><value>Please fill all fields.</value></data>
+  <data name="PasswordsDoNotMatch" xml:space="preserve"><value>Passwords do not match.</value></data>
+  <data name="RegistrationSuccess" xml:space="preserve"><value>Registration successful.</value></data>
+  <data name="RegistrationError" xml:space="preserve"><value>Registration failed: {0}</value></data>
+  <data name="UsernameExists" xml:space="preserve"><value>Username already exists.</value></data>
+  <data name="DarkTheme" xml:space="preserve"><value>Dark Theme</value></data>
+  <data name="LanguageRussian" xml:space="preserve"><value>Russian</value></data>
+  <data name="LanguageEnglish" xml:space="preserve"><value>English</value></data>
+  <data name="MessageBoxInfoTitle" xml:space="preserve"><value>Info</value></data>
+  <data name="MessageBoxErrorTitle" xml:space="preserve"><value>Error</value></data>
+  <data name="DefaultInfoMessage" xml:space="preserve"><value>An information message.</value></data>
+  <data name="DefaultErrorMessage" xml:space="preserve"><value>An error occurred.</value></data>
+  <data name="LogoutMessage" xml:space="preserve"><value>Logged out successfully.</value></data>
+  <data name="DefaultProfileText" xml:space="preserve"><value>Default Profile</value></data>
+  <data name="DefaultProfileImage" type="System.Resources.ResXFileRef, System.Windows.Forms"><value>Resources\Images\default.jpg;System.Drawing.Bitmap, System.Drawing</value></data>
+  <data name="ImageFilter" xml:space="preserve"><value>Image Files|*.jpg;*.jpeg;*.png</value></data>
+  <data name="SettingsSaved" xml:space="preserve"><value>Settings saved</value></data>
+  <data name="Save" xml:space="preserve"><value>Save</value></data>
+  <data name="NewPasswordHint" xml:space="preserve"><value>New Password</value></data>
+  <data name="ConfirmPasswordHint" xml:space="preserve"><value>Confirm New Password</value></data>
+  <data name="SelectImage" xml:space="preserve"><value>Select Image</value></data>
+  <data name="LoggingProductRepository_GetAll_Getting_all_products___" xml:space="preserve">
+    <value>Getting all products...</value>
+  </data>
+  <data name="LoggingProductRepository_GetById_Getting_product_by_ID___0_" xml:space="preserve">
+    <value>Getting product by ID: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Add_Adding_product___0_" xml:space="preserve">
+    <value>Adding product: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Update_Updating_product_ID___0_" xml:space="preserve">
+    <value>Updating product ID: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Delete_Deleting_product_ID___0_" xml:space="preserve">
+    <value>Deleting product ID: {0}</value>
+  </data>
+  <data name="LoggingProductRepository_Filter_Filtering_products___Name__0__Price__1__Stock__2__Category__3__Specs__4_" xml:space="preserve">
+    <value>Filtering products: Name={0}, Price={1}, Stock={2}, Category={3}, Specs={4}</value>
+  </data>
+</root>
